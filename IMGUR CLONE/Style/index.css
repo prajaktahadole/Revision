@@ -1,0 +1,19 @@
+*{
+    width: 100%;
+    background-color: rgb(23,21,68);
+}
+
+
+
+#Maincontainer{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    color: aliceblue;
+}
+
+.img1{
+    height: 300px;
+}
