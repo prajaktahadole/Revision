@@ -1,10 +1,10 @@
 import './App.css'
-
+import  {ReactCalendar} from "./calendar"
 function App() {
 
   return (
     <div className="App">
-     calendar
+     <ReactCalendar/>
     </div>
   )
 }

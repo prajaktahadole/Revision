@@ -1,4 +1,10 @@
 .App {
-  text-align: center;
+  text-align: center; 
 }
 
+
+.main{
+ width: 25%;
+ margin: auto;
+ margin-top: 25px;
+}
